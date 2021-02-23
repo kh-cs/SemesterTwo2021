@@ -1,0 +1,5 @@
+Name           Age           Major
+==================================
+Khaled         20             CS
+Mohammed       18             DR
+Ahmed          25             IT
